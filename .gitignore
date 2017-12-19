@@ -104,7 +104,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# Temporary files
+*.swp
 
+# ConDex-specific
 *.db
 celerybeat-schedule
 CondexConfig.py
